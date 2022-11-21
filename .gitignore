@@ -58,3 +58,5 @@ sysinfo.txt
 # Crashlytics generated file
 crashlytics-build.properties
 
+/Assets/Music/rocketsong.wav
+/Assets/Music/rocketsong.wav.meta
